@@ -30011,6 +30011,34 @@ a.text-muted:hover {
   color: #ffffff;
 }@charset "UTF-8";
 
+.orange {
+  color: #f6993f;
+}
+
+.teal {
+  color: #4dc0b5;
+}
+
+.indigo {
+  color: #6574cd;
+}
+
+.yellow {
+  color: #ffed4a;
+}
+
+.green {
+  color: #38c172;
+}
+
+.blue {
+  color: #3490dc;
+}
+
+.red {
+  color: #e3342f;
+}
+
 /*!
  * Bootstrap v4.4.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
@@ -46811,5 +46839,10 @@ readers do not read off random characters that represent icons */
 .fab {
   font-family: "Font Awesome 5 Brands";
   font-weight: 400;
+}
+
+.router-link-exact-active {
+  background-color: #007bff;
+  color: #fff !important;
 }
 
